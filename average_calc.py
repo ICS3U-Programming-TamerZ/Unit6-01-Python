@@ -9,6 +9,7 @@
 # Imports Module for Random.
 import random
 
+
 # Function definition.
 def average_Calculator():
 
